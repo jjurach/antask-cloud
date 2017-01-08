@@ -13,3 +13,6 @@
 [submodule "antask-cloud-zipkin"]
 	path = antask-cloud-zipkin
 	url = git://github.com/jjurach/antask-cloud-zipkin
+[submodule "antask-cloud-config-service"]
+	path = antask-cloud-config-service
+	url = git://github.com/jjurach/antask-cloud-config-service

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+
+	<groupId>net.sl8</groupId>
+	<artifactId>antask-cloud</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<packaging>pom</packaging>
+        <modules>
+          <module>antask-cloud-config-service</module>
+          <module>antask-cloud-zipkin</module>
+          <module>antask-cloud-eureka</module>
+          <module>antask-cloud-task-service</module>
+          <module>antask-cloud-edge</module>
+        </modules>
+	<properties>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+		<java.version>1.8</java.version>
+	</properties>
+        <scm>
+          <developerConnection>https://github.com/jjurach/antask-cloud</developerConnection>
+        </scm>
+</project>
