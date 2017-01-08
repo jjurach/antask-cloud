@@ -1,18 +1,18 @@
 [submodule "antask-cloud-config"]
 	path = antask-cloud-config
-	url = git://github.com/jjurach/antask-cloud-config
+	url = git@github.com:jjurach/antask-cloud-config
 [submodule "antask-cloud-edge"]
 	path = antask-cloud-edge
-	url = git://github.com/jjurach/antask-cloud-edge
+	url = git@github.com:jjurach/antask-cloud-edge
 [submodule "antask-cloud-eureka"]
 	path = antask-cloud-eureka
-	url = git://github.com/jjurach/antask-cloud-eureka
+	url = git@github.com:jjurach/antask-cloud-eureka
 [submodule "antask-cloud-task-service"]
 	path = antask-cloud-task-service
-	url = git://github.com/jjurach/antask-cloud-task-service
+	url = git@github.com:jjurach/antask-cloud-task-service
 [submodule "antask-cloud-zipkin"]
 	path = antask-cloud-zipkin
-	url = git://github.com/jjurach/antask-cloud-zipkin
+	url = git@github.com:jjurach/antask-cloud-zipkin
 [submodule "antask-cloud-config-service"]
 	path = antask-cloud-config-service
-	url = git://github.com/jjurach/antask-cloud-config-service
+	url = git@github.com:jjurach/antask-cloud-config-service
